@@ -15,7 +15,7 @@
 
 ###
 
-<h1 align="center">¡Hola, soy Walter! 👋<br><br>Soy un apasionado programador con una amplia gama de habilidades tecnológicas, y me encanta trabajar en proyectos que desafíen mi creatividad y conocimientos. Mi viaje en el mundo de la programación comenzó con HTML, CSS y JavaScript, donde aprendí a crear páginas web atractivas y funcionales.<br><br>Con el tiempo, mi curiosidad me llevó a explorar otros lenguajes y tecnologías. Java y Python se convirtieron en mis herramientas para el desarrollo de aplicaciones y proyectos más complejos. Me apasiona la resolución de problemas y la creación de soluciones eficientes utilizando estas poderosas lenguas de programación.<br><br>La gestión de datos es esencial en cualquier aplicación, por lo que también me aventuré en la gestión de bases de datos con MySQL y PostgreSQL. Aprender a diseñar y administrar bases de datos me ha permitido trabajar en aplicaciones que manejan grandes volúmenes de información de manera eficiente.<br><br>Mi objetivo es seguir aprendiendo y creciendo en este emocionante mundo de la programación. Siempre estoy dispuesto a enfrentar nuevos desafíos y aportar soluciones sólidas a través de mi experiencia en estas tecnologías. ¡Me encantaría colaborar contigo en tu próximo proyecto!<br><br>No dudes en contactarme si necesitas asistencia en el desarrollo web, aplicaciones, bases de datos o cualquier otra área en la que pueda aportar mi experiencia. ¡Estoy emocionado de trabajar en proyectos emocionantes y seguir evolucionando como programador! 🚀</h1>
+<h2 align="left">¡Hola, soy Walter! 👋<br><br>Soy un apasionado programador con una amplia gama de habilidades tecnológicas, y me encanta trabajar en proyectos que desafíen mi creatividad y conocimientos. Mi viaje en el mundo de la programación comenzó con HTML, CSS y JavaScript, donde aprendí a crear páginas web atractivas y funcionales.<br><br>Con el tiempo, mi curiosidad me llevó a explorar otros lenguajes y tecnologías. Java y Python se convirtieron en mis herramientas para el desarrollo de aplicaciones y proyectos más complejos. Me apasiona la resolución de problemas y la creación de soluciones eficientes utilizando estas poderosas lenguas de programación.<br><br>La gestión de datos es esencial en cualquier aplicación, por lo que también me aventuré en la gestión de bases de datos con MySQL y PostgreSQL. Aprender a diseñar y administrar bases de datos me ha permitido trabajar en aplicaciones que manejan grandes volúmenes de información de manera eficiente.<br><br>Mi objetivo es seguir aprendiendo y creciendo en este emocionante mundo de la programación. Siempre estoy dispuesto a enfrentar nuevos desafíos y aportar soluciones sólidas a través de mi experiencia en estas tecnologías. ¡Me encantaría colaborar contigo en tu próximo proyecto!<br><br>No dudes en contactarme si necesitas asistencia en el desarrollo web, aplicaciones, bases de datos o cualquier otra área en la que pueda aportar mi experiencia. ¡Estoy emocionado de trabajar en proyectos emocionantes y seguir evolucionando como programador! 🚀</h2>
 
 ###
 
@@ -56,9 +56,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
 
 ###
